@@ -1,0 +1,11 @@
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\bin\Debug\Database1.mdf
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\bin\Debug\Database1_log.ldf
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\obj\x86\Debug\DatabaseApp.Properties.Resources.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\obj\x86\Debug\DatabaseApp.csproj.GenerateResource.Cache
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\obj\x86\Debug\DatabaseApp.exe
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\obj\x86\Debug\DatabaseApp.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe.config
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\obj\x86\Debug\DatabaseApp.Form1.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseApp\DatabaseApp\obj\x86\Debug\DatabaseApp.csprojResolveAssemblyReference.cache
